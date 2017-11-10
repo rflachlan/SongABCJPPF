@@ -1,0 +1,1 @@
+# SongABCJPPF is a prject that allows individual-based simulation of cultural evolution of bird song, Approximate Bayesian Computation analysis of empirical data-sets, and uses the JPPF framework to allow cluster computing
